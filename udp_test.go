@@ -1,4 +1,4 @@
-package udp_test
+package tiny_udp
 
 import (
 	"fmt"
